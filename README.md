@@ -35,9 +35,11 @@ OPENWEATHER_API_KEY=your_api_key_here
 ```
 
 ### 🖼️ Screenshots
-![1](Screenshots/1.png)
-![2](Screenshots/2.png)
-![3](Screenshots/3.png)
+
+<img src="Screenshots/1.png" alt="Screenshot 1" width="500">  
+<img src="Screenshots/2.png" alt="Screenshot 2" width="500">  
+<img src="Screenshots/3.png" alt="Screenshot 3" width="500">  
+
 
 
 ### 🔗 Technologies Used
