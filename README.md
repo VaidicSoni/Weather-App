@@ -24,3 +24,32 @@ You also need **pip** to install dependencies.
 ```sh
 git clone https://github.com/yourusername/weather-app.git
 cd weather-app
+```
+
+### 🔹 Set Up OpenWeather API Key
+
+Get an API key from OpenWeather.
+Create a .env file in the project directory and add:
+```sh
+OPENWEATHER_API_KEY=your_api_key_here
+```
+
+### 🖼️ Screenshots
+![1](Screenshots/1.png)
+![2](Screenshots/2.png)
+![3](Screenshots/3.png)
+
+
+### 🔗 Technologies Used
+
+- Python 3.x
+- PyQt5 (GUI framework)
+- Requests (API calls)
+- Git & GitHub (Version control)
+- OpenWeather API (Weather data)
+
+
+
+
+
+
