@@ -27,7 +27,7 @@ class WeatherApp(QWidget):
         self.initUI()
 
     def initUI(self):
-        self.setWindowTitle("Weather App")
+        self.setWindowTitle("Weather Anytime")
         self.setWindowIcon(QIcon("weather_icon.png"))
         self.setFixedSize(500, 600)
 
