@@ -1,4 +1,4 @@
-# 🌡️ Weather App 
+# 🌡️ Weather Anytime 
 A modern **weather application** built using **Python (PyQt5) and OpenWeather API**, featuring **real-time weather updates, location-based search, and auto-suggestions**.
 
 ## 📌 Features
